@@ -1,0 +1,61 @@
+body {
+    font-family: Times, sans-serif;
+    background-color: #ecb37f;
+    color: #212529;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+    color: #212529;
+}
+
+.nav_logo {
+    background: url(../image/4.png) no-repeat center center;
+    background-size: 100%;
+    width: 74px;
+    height: 82px;
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-top: 23px;
+}
+
+.img_size {
+    background: url(../image/1.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 380px;
+    height: 237px;
+}
+
+.title_photo {
+    font-weight: bold;
+    padding-left: 140px; 
+}
+
+.achievements{
+
+}
+.contacts {
+
+}
+
+.achievements h3{
+
+}
+.contacts h3 {
+}
+
+.achievements ul {
+
+}
+
+.contacts p {
+}
